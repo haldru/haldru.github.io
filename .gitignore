@@ -1,0 +1,9 @@
+# files / file patterns
+dev-*.*
+*-dev.*
+dev.*
+# directories / directory patterns
+_*/
+dev/
+dev-*/
+*-dev/
